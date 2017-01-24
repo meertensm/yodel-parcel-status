@@ -1,5 +1,5 @@
 {
-    "name": "mcs/Yodel_parcel_status",
+    "name": "mcs/yodel-parcel-status",
     "description": "Yodel Parcel status",
     "license": "MIT",
     "keywords": ["yodel"],
@@ -12,7 +12,6 @@
     ],
     "require": {
         "php": ">= 5.4",
-        "symfony/var-dumper": "^3.1",
         "paquettg/php-html-parser": "^1.7"
     },
     "require-dev": {},

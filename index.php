@@ -18,5 +18,5 @@ error_reporting(E_ALL);
         
         
     } catch (Exception $e) {
-        dump($e->getMessage());    
+        print_r($e->getMessage());    
     }
